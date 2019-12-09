@@ -10,7 +10,7 @@ class LandingPage extends Component {
      <Cell col={12}>
       <img className={classes.avatar} src='/myimg/front.jpg' alt='avatar' />
       <div className={classes.bannerText}>
-       <h1>Frontend Developer</h1>
+       <h1>React Frontend Developer</h1>
 
        <hr />
        <p>HTML5/CSS3 | JavaScript | React JS | Redux</p>
