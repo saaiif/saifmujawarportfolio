@@ -32,7 +32,7 @@ class Project extends Component {
                 <Button colored>Github</Button>
               </a>
               <Button colored>Codepen</Button>
-              <a href='/' rel='noopener noreferrer' target='_blank'>
+              <a href='https://happy-cray-151e1f.netlify.com/' rel='noopener noreferrer' target='_blank'>
                 <Button colored>LiveDemo</Button>
               </a>
             </CardActions>
