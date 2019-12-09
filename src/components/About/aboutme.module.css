@@ -1,0 +1,30 @@
+.container {
+	width: 100%;
+	min-height: 593px;
+	background: #0f0c29;
+	background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+	color: white;
+	box-sizing: border-box;
+	overflow-x: hidden;
+}
+
+.starlight {
+	padding: 0;
+	border: none;
+	border-top: solid 5px;
+	text-align: center;
+	max-width: 250px;
+	margin: 25px auto 30px;
+}
+
+.row {
+	margin-right: -25px;
+	margin-left: -25px;
+}
+
+.aboutme {
+	font-family: 'lato', sans-serif;
+	font-size: 25px;
+	line-height: 1.42857143;
+	box-sizing: border-box;
+}

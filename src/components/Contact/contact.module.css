@@ -1,0 +1,77 @@
+.contactMe h2 {
+   padding-bottom: 60px;
+}
+
+section h2 {
+   margin: 0;
+   font-size: 3em;
+}
+
+h2{
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-top: 130px;
+
+}
+
+/* .container {
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+} */
+
+
+/* .contactList{
+   position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+
+.row {
+   margin-right: -15px;
+   margin-left: -15px;
+}
+
+div {
+   display: block;
+} */
+
+.contact li {
+   display: inline-block;
+   list-style-type: none;
+   margin: 0 3em;
+   text-align: center;
+}
+
+.contact p {
+   text-align: center;
+}
+
+p {
+   font-size: 20px;
+   margin: 0 0 10px;
+   display: block;
+}
+
+.contact i {
+   color: #473be7;
+}
+
+strong {
+   font-weight: bold;
+}
+
+i{
+   font-size: 3em;
+} 
+
+.contact{
+   text-align: center;
+}

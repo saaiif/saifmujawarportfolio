@@ -1,0 +1,20 @@
+.rightCell{
+   background-color: black;
+   color: white;
+   padding-left: 1em;
+   margin-top:0;
+}
+
+/* .rightCell h2{
+   margin-top:-50px;
+} */
+
+.leftSide img{
+   width: 200px;
+   height: 200px;
+   border-radius: 100%;
+}
+
+.leftSide h2{
+   padding-top:12px;
+}
